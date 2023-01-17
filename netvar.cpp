@@ -1,5 +1,5 @@
 #include "netvar.h"
-#include "../interface/interface.h"
+#include "interface.h"
 #include "fnv.h"
 
 #include <cctype>
