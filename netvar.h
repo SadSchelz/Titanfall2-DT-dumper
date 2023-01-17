@@ -1,5 +1,5 @@
 #pragma once
-#include "../sdk.h"
+#include "sdk.h"
 #include "fnv.h"
 
 #include <map>
